@@ -238,7 +238,7 @@ style the element with the id of hero
 
 table {
 	border: 2px solid black;
-	boder-collapse: collapse;
+	border-collapse: collapse;
 	width: 100%;
 }
 
